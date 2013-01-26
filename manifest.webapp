@@ -1,0 +1,13 @@
+{
+  "name": "Matehackers",
+  "description": "Hackerspace Matehackers",
+  "launch_path": "/",
+  "icons": {
+    "100": "/images/icon-100.png"
+  },
+  "developer": {
+    "name": "Matehackers",
+    "url": "http://matehackers.org"
+  },
+  "default_locale": "en"
+}
