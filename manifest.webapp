@@ -3,7 +3,7 @@
   "description": "Hackerspace Matehackers",
   "launch_path": "/",
   "icons": {
-    "100": "/images/icon-100.png"
+    "128": "icon.png"
   },
   "developer": {
     "name": "Matehackers",
